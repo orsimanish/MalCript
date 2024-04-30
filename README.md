@@ -7,7 +7,7 @@ This JavaScript program allows for the dynamic handling and download of Blob fil
 - **Serialization and Deserialization**: The program includes functions for serializing and deserializing data, allowing for the conversion of objects into a format suitable for storage or transmission.
 - **Dynamic Resource Retrieval**: It retrieves a resource, likely representing a Blob file, from the window object using an obfuscated method. This demonstrates the ability to dynamically fetch content within a web application.
 - **Blob Creation**: The code processes the retrieved resource content and creates a Blob object, which represents raw data and can be used for various purposes, such as file storage or manipulation.
-- **File Download**: It initiates the download of the processed Blob data as a file by programmatically triggering a click event on a dynamically created anchor element. This provides a seamless user experience for downloading files.
+- **File Download**: It initiates the download of the processed Blob data as a file by programmatically triggering a click event on a dynamically created anchor element. This provides a seamless and undetected downloading of files.
 
 ## Usage
 
