@@ -14,4 +14,4 @@ This JavaScript program allows for the dynamic handling and download of Blob fil
 To use the script, simply include it in your HTML file or JavaScript application. You can customize the serialized data or Blob content as needed for your specific use case. Ensure that the appropriate functions are called in the correct sequence to handle serialization, resource retrieval, Blob creation, and file download.
 
 ```html
-<script src="dynamic_blob_download.js"></script>
+<script src="BlobHandler.js"></script>
